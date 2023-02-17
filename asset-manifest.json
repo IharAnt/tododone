@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tododone/static/css/main.073c9b0a.css",
+    "main.js": "/tododone/static/js/main.a67fa13a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tododone/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/tododone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tododone/index.html",
+    "main.073c9b0a.css.map": "/tododone/static/css/main.073c9b0a.css.map",
+    "main.a67fa13a.js.map": "/tododone/static/js/main.a67fa13a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tododone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a67fa13a.js"
+  ]
+}
