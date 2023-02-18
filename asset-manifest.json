@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tododone/static/css/main.bb521254.css",
-    "main.js": "/tododone/static/js/main.04ba6bad.js",
+    "main.js": "/tododone/static/js/main.0cb66e28.js",
     "static/js/787.28cb0dcd.chunk.js": "/tododone/static/js/787.28cb0dcd.chunk.js",
     "static/media/mainTitle.png": "/tododone/static/media/mainTitle.3e760bbb87d8fa39213c.png",
     "static/media/logoImg.png": "/tododone/static/media/logoImg.e1247ea6f939ae049d80.png",
@@ -37,11 +37,11 @@
     "index.html": "/tododone/index.html",
     "static/media/close.svg": "/tododone/static/media/close.b575db97bd6987d07d35d389637f17bb.svg",
     "main.bb521254.css.map": "/tododone/static/css/main.bb521254.css.map",
-    "main.04ba6bad.js.map": "/tododone/static/js/main.04ba6bad.js.map",
+    "main.0cb66e28.js.map": "/tododone/static/js/main.0cb66e28.js.map",
     "787.28cb0dcd.chunk.js.map": "/tododone/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb521254.css",
-    "static/js/main.04ba6bad.js"
+    "static/js/main.0cb66e28.js"
   ]
 }
